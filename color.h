@@ -12,3 +12,10 @@ void write_color(std::ostream &out, color pixel_color) {
 }
 
 #endif //RAY_TRACING_COLOR_H
+
+int f(int n) {
+    if (n<=1) {
+        return 1;
+    }
+    return f(n - 1) + f(n - 1);
+}
