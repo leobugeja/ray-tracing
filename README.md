@@ -3,5 +3,5 @@
 
 Link to online book: [Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html#overview)
 
-My final render:
+**Final Render:**
 ![image info](final_render.png)
