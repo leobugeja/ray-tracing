@@ -1,7 +1,5 @@
 # Ray-Tracing
- Based on the ray tracing in one weekend book
-
-Link to online book: [Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html#overview)
+ Following the [Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html#overview) online book.
 
 **Final Render:**
 ![image info](final_render.png)
